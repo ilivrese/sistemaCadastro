@@ -1,0 +1,5 @@
+[19:31:47] Sem agenda pré-definida
+.[19:31:47] Banco de Dados já foi configurado para o dia 03/07/2014.
+[19:34:30] Valores escolhidos: tipo [71], microsok [10, 11, 12, 13, 14, 15],
+horarios [09h00, 10h00, 11h00, 12h00, 12h30, 13h00, 13h30, 14h00, 14h30, 15h00, 16h00, 17h00, 18h00, 19h00][19:34:35] Usua&acute;rio consultado: ID = 1.
+[19:34:38] Usua&acute;rio consultado: ID = 10.

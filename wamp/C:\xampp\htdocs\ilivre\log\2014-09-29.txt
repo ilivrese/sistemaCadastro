@@ -1,0 +1,23 @@
+[17:51:15] Agenda pré-escolhida: tipo [71], micros[01, 02, 03, 04, 05, 06, 07, 08, 09, 10, 11, 12, 13, 14, 15],
+horarios [09h00, 10h00, 11h00, 12h00, 12h30, 13h00, 13h30, 14h00, 14h30, 15h00, 16h00, 17h00, 18h00, 19h00][17:51:20] Horários inseridos.
+[17:51:20] Horários ociosos anteriores removidos.
+[17:51:27] Usua&acute;rio consultado: ID = 23.
+[17:51:27] ID [23] nÃ£o encontrada.
+[17:51:30] Usua&acute;rio consultado: ID = 34.
+[17:51:45] Escolhido horário = [19h00].
+[17:51:46] Escolhido micro = [10].
+[17:51:46] Usuário ID = [34] Agendado.
+[17:51:50] Usua&acute;rio consultado: ID = 20.
+[17:52:00] Escolhido horário = [19h00].
+[17:52:01] Escolhido micro = [11].
+[17:52:01] Usuário ID = [20] Agendado.
+[17:52:13] Usua&acute;rio consultado: ID = 1980.
+Escolhido Horário Quebrado.
+Horário Quebrado: hora [16h00] e micro [04].
+[17:53:52] Cart&atilde;o Sesc [COM9020314609] encontrado.
+[17:57:04] Cart&atilde;o Sesc [COM9180325628] encontrado.
+[13:20:18] Banco de Dados já foi configurado para o dia 29/09/2014.
+[13:21:03] Cart&atilde;o Sesc [COM9180325628] encontrado.
+[13:21:50] Cart&atilde;o Sesc [COM3180373663] encontrado.
+[13:22:20] Cart&atilde;o Sesc [COM3180406137] encontrado.
+[13:22:49] Cart&atilde;o Sesc [COM9320312882] encontrado.

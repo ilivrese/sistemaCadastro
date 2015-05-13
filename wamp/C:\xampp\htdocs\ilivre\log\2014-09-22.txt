@@ -1,0 +1,41 @@
+[23:55:14] Banco de Dados já foi configurado para o dia 22/09/2014.
+[23:55:20] Usua&acute;rio consultado: ID = 2.
+[23:55:26] Escolhido horário = [19h00].
+[23:55:27] Escolhido micro = [11].
+[23:55:27] Usuário ID = [2] Agendado.
+[23:55:30] Usua&acute;rio consultado: ID = 1.
+[23:55:33] Escolhido horário = [19h00].
+[23:55:34] Escolhido micro = [08].
+[23:55:34] Usuário ID = [1] Agendado.
+[23:55:36] Usua&acute;rio consultado: ID = 3.
+[23:55:41] Escolhido horário = [19h00].
+[23:55:42] Escolhido micro = [09].
+[23:55:42] Usuário ID = [3] Agendado.
+[23:55:45] Usua&acute;rio consultado: ID = 4.
+[23:55:49] Escolhido horário = [19h00].
+[23:55:50] Escolhido micro = [06].
+[23:55:51] Usuário ID = [4] Agendado.
+[23:55:53] Usua&acute;rio consultado: ID = 5.
+[23:55:58] Escolhido horário = [19h00].
+[23:55:59] Escolhido micro = [05].
+[23:55:59] Usuário ID = [5] Agendado.
+[23:56:01] Usua&acute;rio consultado: ID = 6.
+[23:56:05] Escolhido horário = [19h00].
+[23:56:07] Escolhido micro = [07].
+[23:56:07] Usuário ID = [6] Agendado.
+[23:56:09] Usua&acute;rio consultado: ID = 7.
+[23:56:45] Escolhido horário = [19h00].
+[23:56:46] Escolhido micro = [15].
+[23:56:46] Usuário ID = [7] Agendado.
+[23:56:49] Usua&acute;rio consultado: ID = 8.
+[23:56:52] Escolhido horário = [19h00].
+[23:56:53] Escolhido micro = [14].
+[23:56:53] Usuário ID = [8] Agendado.
+[23:56:57] Banco de Dados já foi configurado para o dia 22/09/2014.
+[23:59:40] Banco de Dados já foi configurado para o dia 22/09/2014.
+[23:55:04] Banco de Dados já foi configurado para o dia 22/09/2014.
+[23:55:03] Banco de Dados já foi configurado para o dia 22/09/2014.
+[23:58:48] Banco de Dados já foi configurado para o dia 22/09/2014.
+[23:58:03] Banco de Dados já foi configurado para o dia 22/09/2014.
+[19:02:24] Banco de Dados já foi configurado para o dia 22/09/2014.
+[18:58:02] Banco de Dados já foi configurado para o dia 22/09/2014.

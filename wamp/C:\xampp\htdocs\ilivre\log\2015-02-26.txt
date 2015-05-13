@@ -1,0 +1,12 @@
+[17:14:04] Agenda pré-escolhida: tipo [102], micros[01, 02, 03, 04, 05, 06, 07, 08, 09, 10, 11, 12, 13, 14, 15],
+horarios [09h00, 12h00, 12h30, 13h00, 13h30, 14h00, 14h30, 15h00, 16h00, 17h00, 18h00, 19h00][17:14:09] Horários inseridos.
+[17:14:09] Horários ociosos anteriores removidos.
+[17:14:12] Busca por [norbet] obteve 0 resultado(s).
+[17:14:12] Nome [norbet] nÃ£o encontrado.
+[17:14:15] Usua&acute;rio consultado: ID = 1.
+[17:14:26] Altera&ccedil;&otilde;es no cadastro realizadas: Nome 
+[17:14:31] Usua&acute;rio consultado: ID = 1.
+[17:20:28] Altera&ccedil;&otilde;es no cadastro realizadas: Nome 
+[17:20:33] Usua&acute;rio consultado: ID = 1.
+[17:20:44] Altera&ccedil;&otilde;es no cadastro realizadas: Nome 
+[17:20:49] Usua&acute;rio consultado: ID = 1.

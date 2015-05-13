@@ -1,0 +1,15 @@
+[17:14:30] Agenda pré-escolhida: tipo [7], micros[01, 02, 03, 04, 05, 06, 07, 08, 09, 10, 11, 12, 13, 14, 15],
+horarios [09h00, 12h00, 12h30, 13h00, 13h30, 14h00, 14h30, 18h00, 19h00][17:14:33] Horários inseridos.
+[17:14:33] Horários ociosos anteriores removidos.
+[17:14:36] Usua&acute;rio consultado: ID = 1.
+[17:15:29] Busca por [Instrutor] obteve 0 resultado(s).
+[17:15:29] Nome [Instrutor] nÃ£o encontrado.
+[17:15:42] Usua&acute;rio consultado: ID = 1.
+[17:22:00] Altera&ccedil;&otilde;es no cadastro realizadas: Nome 
+[17:35:00] Usua&acute;rio consultado: ID = 1.
+[17:35:14] Busca por [jose] obteve 485 resultado(s).
+[17:35:23] Usua&acute;rio consultado: ID = 1.
+[17:36:52] Usua&acute;rio consultado: ID = 1.
+[17:42:12] Usua&acute;rio consultado: ID = 1.
+[17:42:49] Usua&acute;rio consultado: ID = 1.
+[17:49:54] Usua&acute;rio consultado: ID = 1.

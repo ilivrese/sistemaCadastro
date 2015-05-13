@@ -1,0 +1,33 @@
+[14:19:06] Agenda prÈ-escolhida: tipo [71], micros[01, 02, 03, 04, 05, 06, 07, 08, 09, 10, 11, 12, 13, 14, 15],
+horarios [09h00, 10h00, 11h00, 12h00, 12h30, 13h00, 13h30, 14h00, 14h30, 15h00, 16h00, 17h00, 18h00, 19h00][14:19:13] Hor·rios inseridos.
+[14:19:13] Hor·rios ociosos anteriores removidos.
+[14:19:34] Busca por [norbet] obteve 1 resultado(s).
+[14:28:36] Banco de Dados j· foi configurado para o dia 20/02/2015.
+[14:28:40] Busca por [norbet] obteve 1 resultado(s).
+[14:30:53] Banco de Dados j· foi configurado para o dia 20/02/2015.
+[14:30:57] Busca por [norbet] obteve 1 resultado(s).
+[14:34:34] Banco de Dados j· foi configurado para o dia 20/02/2015.
+[14:37:35] Altera&ccedil;&otilde;es no cadastro realizadas: Nome 
+[14:37:42] Usua&acute;rio consultado: ID = 15671.
+[14:38:38] Usua&acute;rio consultado: ID = 15671.
+[14:39:08] Usua&acute;rio consultado: ID = 15671.
+[14:39:53] Usua&acute;rio consultado: ID = 15671.
+[15:00:43] Busca por [NORBET TESTE] obteve 1 resultado(s).
+[15:18:27] Novo Cadastro efetuado:  .
+[15:18:59] Busca por [Norbet cacete] obteve 0 resultado(s).
+[15:18:59] Nome [Norbet cacete] n√£o encontrado.
+[15:19:57] Novo Cadastro efetuado:  .
+[15:20:45] Busca por [Norbet camargo] obteve 0 resultado(s).
+[15:20:45] Nome [Norbet camargo] n√£o encontrado.
+[15:21:19] Novo Cadastro efetuado:  .
+[15:22:28] Busca por [norbet aranha] obteve 0 resultado(s).
+[15:22:28] Nome [norbet aranha] n√£o encontrado.
+[15:22:58] Novo Cadastro efetuado:  .
+[15:25:10] Busca por [norbet tadeu] obteve 0 resultado(s).
+[15:25:10] Nome [norbet tadeu] n√£o encontrado.
+[15:25:43] Novo Cadastro efetuado:  .
+[15:29:15] Busca por [norbet] obteve 6 resultado(s).
+[15:29:49] Novo Cadastro efetuado:  .
+[15:31:49] Busca por [norbet] obteve 7 resultado(s).
+[15:32:55] Busca por [norbet] obteve 0 resultado(s).
+[15:32:55] Nome [norbet] n√£o encontrado.

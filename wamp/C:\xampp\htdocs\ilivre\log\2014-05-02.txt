@@ -1,0 +1,35 @@
+[21:00:03] Agenda pré-escolhida: tipo [71], micros[01, 02, 03, 04, 05, 06, 07, 08, 09, 10, 11, 12, 13, 14, 15],
+horarios [09h00, 10h00, 11h00, 12h00, 12h30, 13h00, 13h30, 14h00, 14h30, 15h00, 16h00, 17h00, 18h00, 19h00][21:00:07] Horários inseridos.
+[21:00:07] Horários ociosos anteriores removidos.
+[21:14:35] Agenda pré-escolhida: tipo [71], micros[01, 02, 03, 04, 05, 06, 07, 08, 09, 10, 11, 12, 13, 14, 15],
+horarios [09h00, 10h00, 11h00, 12h00, 12h30, 13h00, 13h30, 14h00, 14h30, 15h00, 16h00, 17h00, 18h00, 19h00][21:14:40] Horários inseridos.
+[21:14:40] Horários ociosos anteriores removidos.
+[21:16:57] Sem agenda pré-definida
+.[21:16:57] Banco de Dados já foi configurado para o dia 02/05/2014.
+[21:17:05] Valores escolhidos: tipo [143], microsok [10, 11, 12, 13, 14, 15],
+horarios [09h00, 10h00, 11h00, 12h00, 12h30, 13h00, 13h30, 14h00, 14h30, 15h30, 16h00, 17h00, 18h00, 19h00][21:17:07] Agenda pré-escolhida: tipo [143], micros[10, 11, 12, 13, 14, 15],
+horarios [09h00, 10h00, 11h00, 12h00, 12h30, 13h00, 13h30, 14h00, 14h30, 15h30, 16h00, 17h00, 18h00, 19h00][21:17:09] Horários inseridos.
+[21:17:09] Horários ociosos anteriores removidos.
+[21:18:31] Sem agenda pré-definida
+.[21:18:31] Banco de Dados já foi configurado para o dia 02/05/2014.
+[21:18:54] Valores escolhidos: tipo [68], microsok [10, 11, 12, 13, 14, 15],
+horarios [09h00, 10h00, 11h00, 12h00, 12h30, 13h00, 13h30, 14h00, 14h30, 17h00, 18h00, 19h00][21:18:58] Agenda pré-escolhida: tipo [68], micros[10, 11, 12, 13, 14, 15],
+horarios [09h00, 10h00, 11h00, 12h00, 12h30, 13h00, 13h30, 14h00, 14h30, 17h00, 18h00, 19h00][21:19:00] Horários inseridos.
+[21:19:00] Horários ociosos anteriores removidos.
+[21:19:35] Usua&acute;rio consultado: ID = 1.
+[21:19:38] Escolhido horário = [09h00].
+[21:19:41] Escolhido micro = [10].
+[21:19:41] Usuário ID = [1] Agendado.
+[21:19:42] Escolhido micro = [11].
+[21:19:42] Usuário ID = [1] Agendado.
+[21:19:43] Escolhido micro = [12].
+[21:19:43] Usuário ID = [1] Agendado.
+[21:19:43] Escolhido micro = [13].
+[21:19:43] Usuário ID = [1] Agendado.
+[21:19:44] Escolhido micro = [14].
+[21:19:44] Usuário ID = [1] Agendado.
+[21:19:44] Escolhido micro = [15].
+[21:19:44] Usuário ID = [1] Agendado.
+[21:34:03] Banco de Dados já foi configurado para o dia 02/05/2014.
+[21:47:10] Banco de Dados já foi configurado para o dia 02/05/2014.
+[22:54:12] Banco de Dados já foi configurado para o dia 02/05/2014.

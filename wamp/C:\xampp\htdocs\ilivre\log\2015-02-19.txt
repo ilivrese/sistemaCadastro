@@ -1,0 +1,25 @@
+[13:42:45] Conexão falhou.
+[13:45:45] Conexão falhou.
+[13:47:26] Banco de Dados já foi configurado para o dia 19/02/2015.
+[13:48:34] Busca por [Eleotério Carbonel] obteve 0 resultado(s).
+[13:48:34] Nome [Eleotério Carbonel] nÃ£o encontrado.
+[13:56:12] Banco de Dados já foi configurado para o dia 19/02/2015.
+[13:56:18] Busca por [eleotério] obteve 1 resultado(s).
+[14:01:12] Banco de Dados já foi configurado para o dia 19/02/2015.
+[14:01:21] Busca por [norbet] obteve 0 resultado(s).
+[14:01:21] Nome [norbet] nÃ£o encontrado.
+[14:18:47] Novo Cadastro efetuado:  .
+[14:19:06] Usua&acute;rio consultado: ID = 15671.
+[14:22:40] Busca por [norbet] obteve 1 resultado(s).
+[14:43:11] Busca por [norbe] obteve 5 resultado(s).
+[14:46:13] Altera&ccedil;&otilde;es no cadastro realizadas: Nome 
+[14:46:27] Busca por [norbet] obteve 1 resultado(s).
+[14:53:57] Busca por [norbet] obteve 1 resultado(s).
+[14:54:18] Altera&ccedil;&otilde;es no cadastro realizadas: Nome 
+[14:54:26] Busca por [norbet] obteve 1 resultado(s).
+[14:55:36] Banco de Dados já foi configurado para o dia 19/02/2015.
+[14:55:41] Busca por [norbet] obteve 1 resultado(s).
+[14:57:15] Banco de Dados já foi configurado para o dia 19/02/2015.
+[14:57:17] Usua&acute;rio consultado: ID = 15671.
+[14:57:37] Usua&acute;rio consultado: ID = 15671.
+[14:58:04] Usua&acute;rio consultado: ID = 15671.

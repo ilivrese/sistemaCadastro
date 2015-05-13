@@ -1,0 +1,43 @@
+[19:19:20] Conexão falhou.
+[19:19:33] Conexão falhou.
+[19:20:31] Conexão falhou.
+[19:20:34] Conexão falhou.
+[19:20:39] Conexão falhou.
+[19:21:03] Conexão falhou.
+[19:23:02] Conexão falhou.
+[19:34:35] Conexão falhou.
+[19:36:38] Conexão falhou.
+[19:39:16] Conexão falhou.
+[19:40:21] Conexão falhou.
+[19:44:39] Sem agenda pré-definida
+.[19:44:39] Banco de Dados já foi configurado para o dia 08/07/2014.
+[19:44:49] Conexão falhou.
+[19:44:54] Conexão falhou.
+[19:45:21] Conexão falhou.
+[19:45:55] Conexão falhou.
+[19:45:56] Conexão falhou.
+[19:45:56] Conexão falhou.
+[19:45:57] Conexão falhou.
+[19:46:14] Sem agenda pré-definida
+.[19:46:14] Banco de Dados já foi configurado para o dia 08/07/2014.
+[19:46:28] Valores escolhidos: tipo [71], microsok [10, 11, 12, 13, 14, 15],
+horarios [09h00, 10h00, 11h00, 12h00, 12h30, 13h00, 13h30, 14h00, 14h30, 15h00, 16h00, 17h00, 18h00, 19h00][19:55:26] Agenda pré-escolhida: tipo [71], micros[10, 11, 12, 13, 14, 15],
+horarios [09h00, 10h00, 11h00, 12h00, 12h30, 13h00, 13h30, 14h00, 14h30, 15h00, 16h00, 17h00, 18h00, 19h00][19:55:28] Horários inseridos.
+[19:55:28] Horários ociosos anteriores removidos.
+[19:57:37] Banco de Dados já foi configurado para o dia 08/07/2014.
+[19:59:06] Banco de Dados já foi configurado para o dia 08/07/2014.
+[20:00:34] CartÃ£o Sesc [COM123] encontrado.
+[20:06:51] CartÃ£o Sesc [COM123] encontrado.
+[20:08:05] CartÃ£o Sesc [COM123] encontrado.
+[20:12:42] Banco de Dados já foi configurado para o dia 08/07/2014.
+[20:12:45] Cart&atilde;o Sesc [COM123] encontrado.
+[20:14:14] Cart&atilde;o Sesc [COM123] encontrado.
+[20:46:22] Cart&atilde;o Sesc [COM123] encontrado.
+[20:47:05] Usua&acute;rio consultado: ID = 1.
+[20:49:11] Usua&acute;rio consultado: ID = 1.
+[20:49:57] Usua&acute;rio consultado: ID = 1.
+Escolhido Horário Quebrado.
+Escolhido Horário Quebrado.
+Escolhido Horário Quebrado.
+Escolhido Horário Quebrado.
+Escolhido Horário Quebrado.

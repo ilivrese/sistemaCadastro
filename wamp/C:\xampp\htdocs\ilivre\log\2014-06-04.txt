@@ -1,0 +1,2 @@
+[16:14:06] Sem agenda pré-definida
+.[16:14:06] Banco de Dados já foi configurado para o dia 04/06/2014.

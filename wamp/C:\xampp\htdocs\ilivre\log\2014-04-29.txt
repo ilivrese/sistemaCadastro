@@ -1,0 +1,6 @@
+[20:30:31] Conexão falhou.
+[20:30:37] Agenda pré-escolhida: tipo [71], micros[01, 02, 03, 04, 05, 06, 07, 08, 09, 10, 11, 12, 13, 14, 15],
+horarios [09h00, 10h00, 11h00, 12h00, 12h30, 13h00, 13h30, 14h00, 14h30, 15h00, 16h00, 17h00, 18h00, 19h00][20:30:42] Horários inseridos.
+[20:30:42] Horários ociosos anteriores removidos.
+[21:09:16] Banco de Dados já foi configurado para o dia 29/04/2014.
+[21:13:12] Banco de Dados já foi configurado para o dia 29/04/2014.

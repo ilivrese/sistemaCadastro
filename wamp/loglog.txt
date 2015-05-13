@@ -1,0 +1,5 @@
+// criando um arquivo log
+include "abrelog.php";
+$textlog = $headlog."Sem agenda pré-definida.\r\n";
+include "escrevefechalog.php";
+// fim da mensagem log

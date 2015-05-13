@@ -1,0 +1,754 @@
+[11:57:13] Agenda pré-escolhida: tipo [136], micros[01, 02, 03, 04, 05, 06, 07, 08, 09, 10, 11, 12, 13, 14, 15],
+horarios [12h00, 12h30, 13h00, 13h30, 14h00, 14h30, 15h00, 16h00, 17h00, 18h00, 19h00][11:57:17] Horários inseridos.
+[11:57:17] Horários ociosos anteriores removidos.
+[12:01:30] Usuário consultado: ID = 263.
+[12:01:35] Escolhido horário = [12h30].
+[12:01:37] Escolhido micro = [15].
+[12:01:37] Usuário Agendado.
+[12:01:47] Documento [RG182442172] encontrado.
+[12:02:00] Escolhido horário = [12h00].
+[12:02:02] Escolhido micro = [15].
+[12:02:02] Usuário Agendado.
+[12:02:05] Usuário consultado: ID = 816.
+[12:02:09] Escolhido horário = [12h00].
+[12:02:10] Escolhido horário = [12h00].
+[12:02:12] Escolhido micro = [13].
+[12:02:12] Usuário Agendado.
+[12:02:23] Usuário consultado: ID = 11737.
+[12:02:27] Escolhido horário = [14h00].
+[12:02:28] Escolhido horário = [12h00].
+[12:02:31] Escolhido micro = [11].
+[12:02:31] Usuário Agendado.
+[12:02:44] Usuário consultado: ID = 13322.
+[12:02:52] Escolhido horário = [12h00].
+[12:03:08] Documento [RG114874281] encontrado.
+[12:03:13] Escolhido horário = [12h00].
+[12:03:15] Escolhido micro = [08].
+[12:03:15] Usuário Agendado.
+[12:03:23] Usuário consultado: ID = 13852.
+[12:03:27] Escolhido horário = [12h00].
+[12:03:30] Escolhido micro = [03].
+[12:03:30] Usuário Agendado.
+[12:03:43] Documento [RG29993701x] encontrado.
+[12:03:49] Escolhido horário = [12h00].
+[12:03:52] Escolhido micro = [09].
+[12:03:52] Usuário Agendado.
+[12:04:04] Documento [RG78323328] n&ão encontrado.
+[12:04:13] Documento [RG78323228] encontrado.
+[12:04:32] Escolhido horário = [12h00].
+[12:04:34] Escolhido micro = [04].
+[12:04:34] Usuário Agendado.
+[12:04:49] Documento [RG23265615x] n&ão encontrado.
+[12:04:53] Documento [RG23265615] n&ão encontrado.
+[12:05:49] Documento [RG23265685x] encontrado.
+[12:06:12] Escolhido horário = [12h00].
+[12:06:17] Escolhido micro = [06].
+[12:06:17] Usuário Agendado.
+[12:07:09] Usuário consultado: ID = 13905.
+[12:07:22] Escolhido horário = [12h00].
+[12:07:25] Escolhido micro = [07].
+[12:07:25] Usuário Agendado.
+[12:07:44] Usuário consultado: ID = 5944.
+[12:07:55] Escolhido horário = [12h00].
+[12:07:57] Escolhido micro = [14].
+[12:07:57] Usuário Agendado.
+[12:08:06] Usuário consultado: ID = 1.
+[12:08:12] Escolhido horário = [12h00].
+[12:08:17] Escolhido micro = [01].
+[12:08:17] Usuário Agendado.
+[12:08:18] Escolhido micro = [15].
+[12:08:18] Usuário Agendado.
+[12:08:22] Escolhido horário = [12h30].
+[12:08:27] Escolhido micro = [01].
+[12:08:27] Usuário Agendado.
+[12:09:12] Escolhido micro = [03].
+[12:09:12] Usuário Agendado.
+[12:09:15] Escolhido micro = [04].
+[12:09:15] Usuário Agendado.
+[12:09:18] Escolhido horário = [13h00].
+[12:09:21] Escolhido micro = [01].
+[12:09:21] Usuário Agendado.
+[12:09:23] Escolhido micro = [05].
+[12:09:23] Usuário Agendado.
+[12:09:27] Escolhido micro = [06].
+[12:09:27] Usuário Agendado.
+[12:09:31] Escolhido horário = [13h30].
+[12:09:34] Escolhido micro = [01].
+[12:09:34] Usuário Agendado.
+[12:09:37] Escolhido micro = [07].
+[12:09:37] Usuário Agendado.
+[12:09:39] Escolhido micro = [08].
+[12:09:39] Usuário Agendado.
+[12:09:58] Escolhido horário = [14h00].
+[12:10:36] Escolhido micro = [01].
+[12:10:37] Usuário Agendado.
+[12:10:38] Escolhido micro = [09].
+[12:10:38] Usuário Agendado.
+[12:10:38] Escolhido micro = [10].
+[12:10:38] Usuário Agendado.
+[12:10:40] Escolhido horário = [14h30].
+[12:10:43] Escolhido micro = [01].
+[12:10:43] Usuário Agendado.
+[12:10:44] Escolhido micro = [11].
+[12:10:44] Usuário Agendado.
+[12:10:45] Escolhido micro = [12].
+[12:10:45] Usuário Agendado.
+[12:10:46] Escolhido horário = [15h00].
+[12:10:49] Escolhido micro = [01].
+[12:10:49] Usuário Agendado.
+[12:10:50] Escolhido micro = [13].
+[12:10:50] Usuário Agendado.
+[12:10:51] Escolhido micro = [14].
+[12:10:51] Usuário Agendado.
+[12:11:01] Usuário consultado: ID = 263.
+[12:11:05] Escolhido horário = [12h30].
+[12:11:07] Escolhido micro = [14].
+[12:11:07] Usuário Agendado.
+[12:11:13] Usuário consultado: ID = 1.
+[12:11:17] Escolhido horário = [12h00].
+[12:11:25] Usuário consultado: ID = 5875.
+[12:11:32] Escolhido horário = [12h00].
+[12:11:34] Escolhido micro = [10].
+[12:11:35] Usuário Agendado.
+[12:11:39] Usuário consultado: ID = 1,.
+[12:11:43] Escolhido horário = [12h00].
+[12:11:46] Escolhido micro = [06].
+[12:11:46] Usuário Agendado.
+[12:11:49] Usuário consultado: ID = 3038.
+[12:11:54] Escolhido horário = [12h30].
+[12:11:57] Escolhido micro = [05].
+[12:11:57] Usuário Agendado.
+[12:12:00] Usuário consultado: ID = 1.
+[12:12:04] Escolhido horário = [12h30].
+[12:12:06] Escolhido micro = [06].
+[12:12:06] Usuário Agendado.
+[12:12:07] Escolhido micro = [15].
+[12:12:07] Usuário Agendado.
+[12:13:13] Banco de Dados já foi configurado para o dia 05/03/2014.
+[12:15:55] Busca por [maria jose miranda] obteve 1 resultado(s).
+[12:16:05] Escolhido horário = [12h00].
+[12:16:15] Escolhido micro = [12].
+[12:16:15] Usuário Agendado.
+[12:17:01] Busca por [EDUARDO ROMAO FERNANDES] obteve 1 resultado(s).
+[12:17:10] Escolhido horário = [12h00].
+[12:17:12] Escolhido micro = [05].
+[12:17:12] Usuário Agendado.
+[12:18:58] Busca por [EDUARDO ROMAO FERNANDES] obteve 1 resultado(s).
+[12:19:09] Escolhido horário = [12h30].
+[12:19:19] Escolhido micro = [12].
+[12:19:19] Usuário Agendado.
+[12:21:15] Documento [RG5885504] n&ão encontrado.
+[12:21:29] Documento [RG5885504x] encontrado.
+[12:23:27] Documento [RG6801106] encontrado.
+[12:23:32] Escolhido horário = [18h00].
+[12:23:41] Escolhido micro = [02].
+[12:23:41] Usuário Agendado.
+[12:24:15] Documento [RG1610075463] encontrado.
+[12:24:22] Escolhido horário = [12h00].
+[12:24:53] Documento [RG1610075463] encontrado.
+[12:24:59] Escolhido horário = [12h30].
+[12:25:01] Escolhido micro = [09].
+[12:25:01] Usuário Agendado.
+[12:27:00] Busca por [claudia cilene neto] obteve 0 resultado(s).
+[12:27:00] Nome [claudia cilene neto] não encontrado.
+[12:27:35] Busca por [ana paula rodrigues caffeu belo] obteve 0 resultado(s).
+[12:27:35] Nome [ana paula rodrigues caffeu belo] não encontrado.
+[12:28:22] Documento [RG1915250121] n&ão encontrado.
+[12:28:35] Busca por [ana paula rodrigues caffeu belo] obteve 0 resultado(s).
+[12:28:35] Nome [ana paula rodrigues caffeu belo] não encontrado.
+[12:30:03] Novo Cadastro efetuado:  .
+[12:30:14] Escolhido horário = [12h30].
+[12:30:20] Escolhido micro = [13].
+[12:30:20] Usuário Agendado.
+[12:31:03] Busca por [claudia cilene neto] obteve 0 resultado(s).
+[12:31:03] Nome [claudia cilene neto] não encontrado.
+[12:32:31] Novo Cadastro efetuado:  .
+[12:32:38] Escolhido horário = [12h30].
+[12:32:41] Escolhido micro = [15].
+[12:32:41] Usuário Agendado.
+[12:32:53] Usuário consultado: ID = 12888.
+[12:33:00] Escolhido horário = [12h30].
+[12:33:02] Escolhido micro = [10].
+[12:33:02] Usuário Agendado.
+[12:33:30] Usuário consultado: ID = 78323228.
+[12:33:30] ID [78323228] não encontrada.
+[12:33:46] Documento [RG78323228] encontrado.
+[12:33:51] Escolhido horário = [12h30].
+[12:33:54] Escolhido micro = [08].
+[12:33:55] Usuário Agendado.
+[12:34:25] Usuário consultado: ID = 11737.
+[12:34:35] Escolhido horário = [12h30].
+[12:34:39] Escolhido micro = [11].
+[12:34:39] Usuário Agendado.
+[12:35:07] Busca por [] obteve 13731 resultado(s).
+[12:35:34] Banco de Dados já foi configurado para o dia 05/03/2014.
+[12:36:51] Busca por [alexandre netto kishimoto] obteve 0 resultado(s).
+[12:36:51] Nome [alexandre netto kishimoto] não encontrado.
+[12:38:53] Novo Cadastro efetuado:  .
+[12:39:34] Escolhido horário = [15h00].
+[12:41:14] Usuário consultado: ID = 3013.
+[12:41:18] Escolhido horário = [13h30].
+[12:41:20] Escolhido micro = [03].
+[12:41:20] Usuário Agendado.
+[12:41:28] Documento [RG4882467] encontrado.
+[12:41:33] Escolhido horário = [13h00].
+[12:41:35] Escolhido micro = [04].
+[12:41:35] Usuário Agendado.
+[12:41:45] Usuário consultado: ID = 13544.
+[12:41:50] Escolhido horário = [13h00].
+[12:41:53] Escolhido micro = [07].
+[12:41:53] Usuário Agendado.
+[12:43:10] Usuário consultado: ID = 3927.
+[12:43:15] Escolhido horário = [13h00].
+[12:43:17] Escolhido micro = [08].
+[12:43:17] Usuário Agendado.
+[12:43:24] Usuário consultado: ID = 13900.
+[12:43:29] Escolhido horário = [13h00].
+[12:43:31] Escolhido micro = [09].
+[12:43:31] Usuário Agendado.
+[12:43:43] Usuário consultado: ID = 13488.
+[12:43:49] Usuário consultado: ID = 13481.
+[12:43:53] Escolhido horário = [15h00].
+[12:43:55] Escolhido micro = [05].
+[12:43:55] Usuário Agendado.
+[12:45:46] Usuário consultado: ID = .
+[12:45:46] ID [] não encontrada.
+[12:45:57] Usuário consultado: ID = 8870.
+[12:46:02] Escolhido horário = [15h00].
+[12:46:06] Escolhido micro = [09].
+[12:46:06] Usuário Agendado.
+[12:48:08] Usuário consultado: ID = 13289.
+[12:48:21] Escolhido horário = [13h00].
+[12:48:23] Escolhido micro = [11].
+[12:48:23] Usuário Agendado.
+[12:56:20] Banco de Dados já foi configurado para o dia 05/03/2014.
+[12:56:40] Banco de Dados já foi configurado para o dia 05/03/2014.
+[13:00:53] Usuário consultado: ID = .
+[13:00:53] ID [] não encontrada.
+[13:00:58] Usuário consultado: ID = 2621.
+[13:01:02] Escolhido horário = [13h00].
+[13:01:05] Escolhido micro = [10].
+[13:01:05] Usuário Agendado.
+[13:01:16] Usuário consultado: ID = 13864.
+[13:01:28] Escolhido horário = [16h00].
+[13:01:31] Escolhido micro = [09].
+[13:01:31] Usuário Agendado.
+[13:01:41] Usuário consultado: ID = .
+[13:01:41] ID [] não encontrada.
+[13:01:58] Documento [RG36473615x] encontrado.
+[13:02:02] Escolhido horário = [13h00].
+[13:02:04] Escolhido micro = [12].
+[13:02:04] Usuário Agendado.
+[13:02:19] Documento [RG36318851] encontrado.
+[13:02:25] Escolhido horário = [13h00].
+[13:02:27] Escolhido micro = [02].
+[13:02:27] Usuário Agendado.
+[13:02:32] Usuário consultado: ID = 3038.
+[13:02:39] Escolhido horário = [13h00].
+[13:02:42] Escolhido micro = [15].
+[13:02:42] Usuário Agendado.
+[13:02:52] Busca por [mitsuko] obteve 1 resultado(s).
+[13:04:05] Usuário consultado: ID = 12888.
+[13:04:09] Escolhido horário = [13h00].
+[13:04:11] Escolhido micro = [13].
+[13:04:11] Usuário Agendado.
+[13:04:28] Usuário consultado: ID = 11737.
+[13:04:34] Escolhido horário = [13h00].
+[13:04:37] Escolhido micro = [14].
+[13:04:37] Usuário Agendado.
+[13:04:49] Usuário consultado: ID = 1.
+[13:04:54] Escolhido horário = [19h00].
+[13:04:56] Escolhido micro = [01].
+[13:04:56] Usuário Agendado.
+[13:04:57] Escolhido horário = [18h00].
+[13:04:59] Escolhido micro = [01].
+[13:04:59] Usuário Agendado.
+[13:05:00] Escolhido horário = [17h00].
+[13:05:02] Escolhido micro = [01].
+[13:05:02] Usuário Agendado.
+[13:05:03] Escolhido horário = [16h00].
+[13:05:04] Escolhido micro = [01].
+[13:05:04] Usuário Agendado.
+[13:05:05] Escolhido horário = [15h00].
+[13:05:08] Escolhido horário = [14h30].
+[13:05:10] Escolhido horário = [14h00].
+[13:05:12] Escolhido horário = [13h30].
+[13:06:24] Busca por [JAIR JOSE DE SANT'ANA] obteve  resultado(s).
+[13:06:24] Nome [JAIR JOSE DE SANT'ANA] não encontrado.
+[13:06:32] Busca por [JAIR JOSE DE SANT ANA] obteve 0 resultado(s).
+[13:06:32] Nome [JAIR JOSE DE SANT ANA] não encontrado.
+[13:07:12] Novo Cadastro efetuado:  .
+[13:07:22] Escolhido horário = [13h00].
+[13:07:24] Escolhido micro = [03].
+[13:07:24] Usuário Agendado.
+[13:11:12] Usuário consultado: ID = 9010.
+[13:11:19] Escolhido horário = [15h00].
+[13:11:23] Escolhido micro = [06].
+[13:11:23] Usuário Agendado.
+[13:11:56] Usuário consultado: ID = 2750.
+[13:12:02] Escolhido horário = [18h00].
+[13:12:06] Escolhido micro = [08].
+[13:12:06] Usuário Agendado.
+[13:12:34] Documento [RG261816688] encontrado.
+[13:12:48] Escolhido horário = [14h30].
+[13:12:51] Escolhido micro = [10].
+[13:12:51] Usuário Agendado.
+[13:13:22] Usuário consultado: ID = 1.
+[13:13:27] Escolhido horário = [13h30].
+[13:13:29] Escolhido micro = [09].
+[13:13:29] Usuário Agendado.
+[13:13:30] Escolhido micro = [10].
+[13:13:30] Usuário Agendado.
+[13:13:42] Usuário consultado: ID = 1.
+[13:13:46] Escolhido horário = [14h30].
+[13:14:02] Escolhido horário = [14h00].
+[13:14:04] Escolhido micro = [11].
+[13:14:04] Usuário Agendado.
+[13:14:05] Escolhido micro = [12].
+[13:14:05] Usuário Agendado.
+[13:14:06] Escolhido micro = [13].
+[13:14:06] Usuário Agendado.
+[13:14:07] Escolhido micro = [14].
+[13:14:07] Usuário Agendado.
+[13:14:10] Escolhido horário = [14h30].
+[13:16:24] Documento [RG384080625] encontrado.
+[13:16:32] Escolhido horário = [14h30].
+[13:16:34] Escolhido micro = [06].
+[13:16:34] Usuário Agendado.
+[13:20:37] Busca por [EDUARDO DA SILVA RAMOS] obteve 1 resultado(s).
+[13:20:54] Escolhido horário = [17h00].
+[13:20:57] Escolhido micro = [12].
+[13:20:57] Usuário Agendado.
+[13:27:40] Usuário consultado: ID = 1112.
+[13:27:59] Escolhido horário = [15h00].
+[13:28:02] Escolhido micro = [11].
+[13:28:02] Usuário Agendado.
+[13:31:30] Documento [RG36473615x] encontrado.
+[13:31:39] Escolhido horário = [13h30].
+[13:31:42] Escolhido micro = [13].
+[13:31:42] Usuário Agendado.
+[13:32:01] Documento [RG4882467] encontrado.
+[13:32:13] Escolhido horário = [13h00].
+[13:32:15] Escolhido horário = [13h30].
+[13:32:18] Escolhido micro = [11].
+[13:32:18] Usuário Agendado.
+[13:32:43] Documento [RG36318851] encontrado.
+[13:32:49] Escolhido horário = [13h30].
+[13:32:51] Escolhido micro = [02].
+[13:32:51] Usuário Agendado.
+[13:33:20] Usuário consultado: ID = 3927.
+[13:33:26] Escolhido horário = [13h30].
+[13:33:28] Escolhido micro = [14].
+[13:33:28] Usuário Agendado.
+[13:33:52] Documento [RG559415436] encontrado.
+[13:33:57] Escolhido horário = [13h30].
+[13:34:01] Escolhido micro = [12].
+[13:34:01] Usuário Agendado.
+[13:34:14] Usuário consultado: ID = 13900.
+[13:34:20] Escolhido horário = [13h30].
+[13:34:22] Escolhido micro = [15].
+[13:34:22] Usuário Agendado.
+[13:34:36] Usuário consultado: ID = 13544.
+[13:34:43] Escolhido horário = [13h30].
+[13:34:46] Escolhido micro = [06].
+[13:34:46] Usuário Agendado.
+[13:35:00] Usuário consultado: ID = 3038.
+[13:35:13] Usuário consultado: ID = 3038.
+[13:35:24] Escolhido horário = [13h30].
+[13:35:30] Escolhido micro = [05].
+[13:35:30] Usuário Agendado.
+[13:36:00] Usuário consultado: ID = 2750.
+[13:36:04] Escolhido horário = [17h00].
+[13:36:07] Escolhido micro = [14].
+[13:36:07] Usuário Agendado.
+[13:36:46] Usuário consultado: ID = 3013.
+[13:37:08] Escolhido horário = [13h30].
+[13:37:10] Escolhido micro = [04].
+[13:37:10] Usuário Agendado.
+[13:40:03] Usuário consultado: ID = 5232.
+[13:40:11] Usuário consultado: ID = 5232.
+[13:40:16] Usuário consultado: ID = 5233.
+[13:40:22] Escolhido horário = [14h00].
+[13:40:25] Escolhido micro = [08].
+[13:40:25] Usuário Agendado.
+[13:40:51] Usuário consultado: ID = 5233.
+[13:40:56] Escolhido horário = [14h30].
+[13:40:59] Escolhido micro = [08].
+[13:40:59] Usuário Agendado.
+[13:44:35] Busca por [VICTOR HEIDI CEDRAZ MAGARIO] obteve 1 resultado(s).
+[13:44:43] Escolhido horário = [14h00].
+[13:44:47] Escolhido micro = [09].
+[13:44:47] Usuário Agendado.
+[13:48:27] Busca por [romeu] obteve 3 resultado(s).
+[13:48:52] Escolhido horário = [13h00].
+[13:48:54] Escolhido horário = [13h30].
+[13:48:56] Escolhido micro = [10].
+[13:48:56] Usuário Agendado.
+[14:01:43] Usuário consultado: ID = 3013.
+[14:01:53] Escolhido horário = [14h00].
+[14:01:58] Escolhido micro = [04].
+[14:01:58] Usuário Agendado.
+[14:09:48] Usuário consultado: ID = 559.
+[14:09:54] Escolhido horário = [14h30].
+[14:09:57] Escolhido micro = [07].
+[14:09:57] Usuário Agendado.
+[14:16:57] Busca por [mahmoud] obteve 3 resultado(s).
+[14:17:17] Escolhido horário = [14h00].
+[14:17:19] Escolhido micro = [07].
+[14:17:19] Usuário Agendado.
+[14:18:57] Usuário consultado: ID = 13229.
+[14:19:05] Escolhido horário = [17h00].
+[14:19:08] Escolhido micro = [09].
+[14:19:08] Usuário Agendado.
+[14:23:16] Usuário consultado: ID = 5.
+[14:23:24] Escolhido horário = [16h00].
+[14:23:29] Escolhido micro = [11].
+[14:23:29] Usuário Agendado.
+[14:26:49] Banco de Dados já foi configurado para o dia 05/03/2014.
+[14:27:55] Banco de Dados já foi configurado para o dia 05/03/2014.
+[14:30:59] Usuário consultado: ID = 3013.
+[14:31:09] Escolhido horário = [14h30].
+[14:31:11] Escolhido micro = [04].
+[14:31:11] Usuário Agendado.
+[14:31:20] Usuário consultado: ID = 559.
+[14:31:29] Escolhido horário = [14h30].
+[14:31:31] Escolhido micro = [15].
+[14:31:31] Usuário Agendado.
+[14:32:39] Busca por [mahmoud] obteve 3 resultado(s).
+[14:32:54] Escolhido horário = [14h30].
+[14:32:56] Escolhido micro = [07].
+[14:32:56] Usuário Agendado.
+[14:33:16] Usuário consultado: ID = 941.
+[14:33:43] Escolhido horário = [15h00].
+[14:33:45] Escolhido micro = [08].
+[14:33:45] Usuário Agendado.
+[14:34:15] Banco de Dados já foi configurado para o dia 05/03/2014.
+[14:34:59] Usuário consultado: ID = 662.
+[14:35:04] Escolhido horário = [14h30].
+[14:35:06] Escolhido micro = [12].
+[14:35:06] Usuário Agendado.
+[14:39:00] Usuário consultado: ID = 13502.
+[14:39:05] Escolhido horário = [15h00].
+[14:39:07] Escolhido micro = [13].
+[14:39:07] Usuário Agendado.
+[14:40:09] Documento [RG74138571] encontrado.
+[14:40:15] Escolhido horário = [14h00].
+[14:40:18] Escolhido horário = [14h30].
+[14:40:23] Escolhido micro = [02].
+[14:40:23] Usuário Agendado.
+[14:48:41] Busca por [rosangela esteves] obteve 1 resultado(s).
+[14:53:39] Usuário consultado: ID = 1378.
+[14:53:45] Escolhido horário = [15h00].
+[14:53:47] Escolhido micro = [02].
+[14:53:47] Usuário Agendado.
+[14:55:36] Usuário consultado: ID = 11150.
+[14:55:47] Escolhido horário = [15h00].
+[14:55:49] Escolhido micro = [12].
+[14:55:49] Usuário Agendado.
+[14:59:38] Usuário consultado: ID = 6109.
+[14:59:50] Escolhido horário = [15h00].
+[14:59:52] Escolhido micro = [10].
+[14:59:52] Usuário Agendado.
+[15:01:35] Documento [RG261816688] encontrado.
+[15:01:40] Escolhido horário = [15h00].
+[15:01:46] Escolhido micro = [07].
+[15:01:46] Usuário Agendado.
+[15:02:49] Usuário consultado: ID = 9035.
+[15:03:08] Usuário consultado: ID = 3590.
+[15:03:31] Documento [RG175027201] encontrado.
+[15:03:41] Escolhido horário = [15h00].
+[15:03:53] Escolhido horário = [15h00].
+[15:03:58] Escolhido micro = [15].
+[15:03:58] Usuário Agendado.
+[15:05:27] Busca por [pedro] obteve 44 resultado(s).
+[15:05:49] Escolhido horário = [16h00].
+[15:05:51] Escolhido micro = [10].
+[15:05:51] Usuário Agendado.
+[15:10:21] Usuário consultado: ID = 1976.
+[15:10:26] Escolhido horário = [16h00].
+[15:10:28] Escolhido micro = [07].
+[15:10:29] Usuário Agendado.
+[15:13:21] Banco de Dados já foi configurado para o dia 05/03/2014.
+[15:16:00] Banco de Dados já foi configurado para o dia 05/03/2014.
+[15:16:01] Banco de Dados já foi configurado para o dia 05/03/2014.
+[15:17:45] Usuário consultado: ID = 13181.
+[15:17:53] Escolhido horário = [15h00].
+[15:17:57] Escolhido micro = [04].
+[15:17:57] Usuário Agendado.
+[15:20:42] Documento [RG192669473x] n&ão encontrado.
+[15:21:01] Documento [RG19269473x] encontrado.
+[15:21:08] Escolhido horário = [15h00].
+[15:21:10] Escolhido micro = [14].
+[15:21:10] Usuário Agendado.
+[15:22:12] Documento [RG37938629] encontrado.
+[15:22:20] Escolhido horário = [16h00].
+[15:22:22] Escolhido micro = [02].
+[15:22:22] Usuário Agendado.
+[15:22:42] Banco de Dados já foi configurado para o dia 05/03/2014.
+[15:26:22] Usuário consultado: ID = 1921.
+[15:26:29] Escolhido horário = [16h00].
+[15:26:33] Escolhido micro = [03].
+[15:26:33] Usuário Agendado.
+[15:39:00] Busca por [WESLEY] obteve 14 resultado(s).
+[15:39:23] Escolhido horário = [18h00].
+[15:39:30] Escolhido micro = [13].
+[15:39:30] Usuário Agendado.
+[15:42:39] Banco de Dados já foi configurado para o dia 05/03/2014.
+[15:43:30] Usuário consultado: ID = 215.
+[15:43:36] Escolhido horário = [18h00].
+[15:43:39] Escolhido micro = [12].
+[15:43:39] Usuário Agendado.
+[15:44:56] Banco de Dados já foi configurado para o dia 05/03/2014.
+[15:46:54] Banco de Dados já foi configurado para o dia 05/03/2014.
+[15:55:46] Usuário consultado: ID = 13634.
+[15:55:58] Escolhido horário = [16h00].
+[15:55:59] Escolhido micro = [15].
+[15:56:00] Usuário Agendado.
+[15:57:13] Busca por [MIDANA VIERA DIAS] obteve 0 resultado(s).
+[15:57:13] Nome [MIDANA VIERA DIAS] não encontrado.
+[15:59:17] Novo Cadastro efetuado:  .
+[16:00:03] Escolhido horário = [16h00].
+[16:00:05] Escolhido micro = [12].
+[16:00:05] Usuário Agendado.
+[16:01:37] Busca por [KHALED A] obteve 1 resultado(s).
+[16:01:44] Escolhido horário = [16h00].
+[16:01:47] Escolhido micro = [13].
+[16:01:48] Usuário Agendado.
+[16:01:59] Usuário consultado: ID = 1378.
+[16:02:11] Escolhido horário = [15h00].
+[16:02:11] Escolhido horário = [16h00].
+[16:02:15] Escolhido micro = [05].
+[16:02:15] Usuário Agendado.
+[16:02:19] Usuário consultado: ID = 6109.
+[16:02:24] Escolhido horário = [16h00].
+[16:02:27] Escolhido micro = [14].
+[16:02:27] Usuário Agendado.
+[16:02:35] Usuário consultado: ID = 13181.
+[16:02:40] Escolhido horário = [16h00].
+[16:02:42] Escolhido micro = [04].
+[16:02:42] Usuário Agendado.
+[16:12:53] Documento [RG364452079] encontrado.
+[16:12:59] Escolhido horário = [16h00].
+[16:13:01] Escolhido micro = [06].
+[16:13:02] Usuário Agendado.
+[16:14:11] Usuário consultado: ID = 1112.
+[16:14:24] Escolhido horário = [16h00].
+[16:14:26] Escolhido micro = [08].
+[16:14:26] Usuário Agendado.
+[16:20:15] Documento [RG376889767] encontrado.
+Escolhido Horário Quebrado.
+Horário Quebrado: hora [16h20] e micro [01].
+[16:28:45] Banco de Dados já foi configurado para o dia 05/03/2014.
+[16:48:05] Banco de Dados já foi configurado para o dia 05/03/2014.
+[16:48:14] Usuário consultado: ID = 13548.
+[16:48:30] Documento [RG232383169] encontrado.
+[16:49:00] Escolhido horário = [17h00].
+[16:49:03] Escolhido micro = [04].
+[16:49:03] Usuário Agendado.
+[16:52:47] Usuário consultado: ID = 11933.
+[16:52:55] Escolhido horário = [17h00].
+[16:52:57] Escolhido micro = [03].
+[16:52:57] Usuário Agendado.
+[17:01:06] Usuário consultado: ID = 6109.
+[17:01:12] Escolhido horário = [17h00].
+[17:01:17] Escolhido micro = [06].
+[17:01:17] Usuário Agendado.
+[17:01:26] Usuário consultado: ID = 5.
+[17:01:32] Escolhido horário = [17h00].
+[17:01:34] Escolhido micro = [11].
+[17:01:34] Usuário Agendado.
+[17:01:44] Usuário consultado: ID = 13322.
+[17:01:50] Escolhido horário = [17h00].
+[17:01:54] Escolhido micro = [05].
+[17:01:54] Usuário Agendado.
+[17:02:31] Usuário consultado: ID = 13864.
+[17:02:36] Escolhido horário = [17h00].
+[17:02:40] Escolhido micro = [07].
+[17:02:40] Usuário Agendado.
+[17:08:58] Cartão Sesc [COM3620315201] não encontrado.
+[17:09:28] Busca por [SUELI APARECIDA DO NASCIMENTO] obteve 0 resultado(s).
+[17:09:28] Nome [SUELI APARECIDA DO NASCIMENTO] não encontrado.
+[17:10:08] Novo Cadastro efetuado:  .
+[17:10:18] Usuário consultado: ID = 13929.
+[17:10:38] Escolhido horário = [17h00].
+[17:10:41] Escolhido micro = [08].
+[17:10:41] Usuário Agendado.
+[17:11:20] Documento [RG375314738] encontrado.
+[17:11:26] Escolhido horário = [17h00].
+[17:11:28] Escolhido micro = [10].
+[17:11:28] Usuário Agendado.
+[17:13:36] Usuário consultado: ID = 274.
+[17:13:43] Escolhido horário = [17h00].
+[17:13:46] Escolhido micro = [13].
+[17:13:46] Usuário Agendado.
+[17:14:45] Usuário consultado: ID = 274.
+[17:14:50] Escolhido horário = [17h00].
+[17:14:53] Escolhido micro = [15].
+[17:14:53] Usuário Agendado.
+[17:20:05] Usuário consultado: ID = 12888.
+[17:20:16] Escolhido horário = [17h00].
+[17:20:19] Escolhido micro = [13].
+[17:20:19] Usuário Agendado.
+[17:32:44] Usuário consultado: ID = 5999.
+[17:32:49] Escolhido horário = [19h00].
+[17:32:51] Escolhido micro = [02].
+[17:32:51] Usuário Agendado.
+[17:34:17] Documento [RG358676496] encontrado.
+[17:34:21] Escolhido horário = [18h00].
+[17:34:26] Escolhido micro = [04].
+[17:34:27] Usuário Agendado.
+[17:48:32] Busca por [GABRIELA SANTOS CINTRA] obteve 0 resultado(s).
+[17:48:32] Nome [GABRIELA SANTOS CINTRA] não encontrado.
+[17:49:32] Novo Cadastro efetuado:  .
+[17:49:39] Usuário consultado: ID = 13930.
+[17:50:05] Alterações no cadastro realizadas: Nome 
+[17:50:12] Usuário consultado: ID = 13930.
+[17:50:29] Alterações no cadastro realizadas: Nome 
+[17:50:35] Usuário consultado: ID = 13930.
+Escolhido Horário Quebrado.
+Horário Quebrado: hora [17H51] e micro [8].
+[17:51:27] Usuário consultado: ID = 9138.
+[17:51:32] Escolhido horário = [18h00].
+[17:51:35] Escolhido micro = [03].
+[17:51:35] Usuário Agendado.
+[17:57:27] Usuário consultado: ID = 12932.
+[17:57:33] Escolhido horário = [18h00].
+[17:57:37] Escolhido micro = [05].
+[17:57:37] Usuário Agendado.
+[17:57:58] Usuário consultado: ID = 508.
+[17:58:03] Escolhido horário = [18h00].
+[17:58:05] Escolhido micro = [06].
+[17:58:05] Usuário Agendado.
+[17:58:25] Usuário consultado: ID = 215.
+[17:58:33] Escolhido horário = [18h00].
+[17:58:35] Escolhido micro = [08].
+[17:58:35] Usuário Agendado.
+[17:59:14] Usuário consultado: ID = 2750.
+[17:59:29] Escolhido horário = [17h00].
+[17:59:30] Escolhido horário = [18h00].
+[17:59:37] Escolhido micro = [14].
+[17:59:37] Usuário Agendado.
+[18:00:44] Usuário consultado: ID = 508.
+[18:00:55] Escolhido horário = [18h00].
+[18:00:57] Escolhido micro = [13].
+[18:00:57] Usuário Agendado.
+[18:01:02] Usuário consultado: ID = 2750.
+[18:01:18] Escolhido horário = [18h00].
+[18:01:20] Escolhido micro = [15].
+[18:01:20] Usuário Agendado.
+[18:02:05] Documento [RG375314738] encontrado.
+[18:02:09] Escolhido horário = [18h00].
+[18:02:11] Escolhido micro = [10].
+[18:02:12] Usuário Agendado.
+[18:02:19] Usuário consultado: ID = 12536.
+[18:02:24] Escolhido horário = [18h00].
+[18:02:26] Escolhido micro = [09].
+[18:02:26] Usuário Agendado.
+[18:02:36] Usuário consultado: ID = 13398.
+[18:02:41] Escolhido horário = [18h00].
+[18:02:43] Escolhido micro = [12].
+[18:02:44] Usuário Agendado.
+[18:02:56] Usuário consultado: ID = 12888.
+[18:03:02] Escolhido horário = [18h00].
+[18:03:04] Escolhido micro = [14].
+[18:03:05] Usuário Agendado.
+[18:06:47] Usuário consultado: ID = 13576.
+[18:06:53] Escolhido horário = [18h00].
+[18:06:55] Escolhido micro = [07].
+[18:06:55] Usuário Agendado.
+[18:20:38] Documento [RG204772758] encontrado.
+[18:20:42] Escolhido horário = [18h00].
+[18:20:44] Escolhido micro = [01].
+[18:20:44] Usuário Agendado.
+[18:21:57] Documento [RG17639932] n&ão encontrado.
+[18:22:08] Busca por [REINALDO SANTOS] obteve 2 resultado(s).
+[18:22:24] Escolhido horário = [18h00].
+[18:22:29] Escolhido micro = [06].
+[18:22:29] Usuário Agendado.
+[18:27:01] Usuário consultado: ID = 13322.
+[18:27:06] Escolhido horário = [18h00].
+[18:27:08] Escolhido micro = [11].
+[18:27:08] Usuário Agendado.
+[18:32:24] Usuário consultado: ID = 12667.
+[18:32:32] Escolhido horário = [19h00].
+[18:32:37] Escolhido micro = [05].
+[18:32:37] Usuário Agendado.
+[18:37:52] Usuário consultado: ID = 1.
+[18:38:19] Usuário consultado: ID = 1.
+[18:38:44] Usuário consultado: ID = 1.
+[18:42:10] Usuário consultado: ID = 1.
+[18:42:51] Usuário consultado: ID = 751.
+[18:42:56] Escolhido horário = [19h00].
+[18:42:59] Escolhido micro = [04].
+[18:42:59] Usuário Agendado.
+[18:46:27] Usuário consultado: ID = 6635.
+[18:46:32] Escolhido horário = [19h00].
+[18:47:04] Usuário consultado: ID = 5999.
+[18:47:08] Escolhido horário = [19h00].
+[18:47:11] Escolhido micro = [01].
+[18:47:11] Usuário Agendado.
+[18:47:25] Usuário consultado: ID = 6635.
+[18:48:36] Escolhido horário = [19h00].
+[18:48:39] Escolhido micro = [02].
+[18:48:39] Usuário Agendado.
+[18:50:13] Usuário consultado: ID = 5999.
+[18:50:24] Escolhido horário = [19h00].
+[18:50:26] Escolhido micro = [02].
+[18:50:26] Usuário Agendado.
+[18:50:40] Usuário consultado: ID = 1.
+[18:50:46] Escolhido horário = [19h00].
+[18:50:48] Escolhido micro = [01].
+[18:50:48] Usuário Agendado.
+[18:51:06] Usuário consultado: ID = 6635.
+[18:51:11] Escolhido horário = [19h00].
+[18:51:13] Escolhido micro = [03].
+[18:51:13] Usuário Agendado.
+[18:51:48] Usuário consultado: ID = 3352.
+[18:51:52] Escolhido horário = [19h00].
+[18:51:55] Escolhido micro = [06].
+[18:51:55] Usuário Agendado.
+[18:55:40] Documento [RG42517086x] encontrado.
+[18:55:46] Escolhido horário = [19h00].
+[18:55:48] Escolhido micro = [08].
+[18:55:48] Usuário Agendado.
+[18:56:09] Usuário consultado: ID = 1112.
+[18:56:14] Escolhido horário = [19h00].
+[18:56:16] Escolhido micro = [09].
+[18:56:16] Usuário Agendado.
+[18:59:08] Usuário consultado: ID = 12932.
+[18:59:13] Escolhido horário = [19h00].
+[18:59:15] Escolhido micro = [07].
+[18:59:15] Usuário Agendado.
+[18:59:35] Usuário consultado: ID = 9138.
+[18:59:40] Escolhido horário = [19h00].
+[18:59:43] Escolhido micro = [10].
+[18:59:43] Usuário Agendado.
+[18:59:53] Usuário consultado: ID = 12536.
+[18:59:57] Escolhido horário = [19h00].
+[19:00:00] Escolhido micro = [11].
+[19:00:00] Usuário Agendado.
+[19:00:20] Documento [RG17639932x] encontrado.
+[19:00:24] Escolhido horário = [19h00].
+[19:00:27] Escolhido micro = [12].
+[19:00:27] Usuário Agendado.
+[19:00:33] Usuário consultado: ID = 20.
+[19:00:38] Escolhido horário = [19h00].
+[19:00:40] Escolhido micro = [13].
+[19:00:40] Usuário Agendado.
+[19:01:27] Usuário consultado: ID = 215.
+[19:01:35] Escolhido horário = [19h00].
+[19:01:39] Escolhido micro = [06].
+[19:01:39] Usuário Agendado.
+[19:01:45] Usuário consultado: ID = 2750.
+[19:01:49] Escolhido horário = [19h00].
+[19:01:52] Escolhido micro = [14].
+[19:01:52] Usuário Agendado.
+[19:02:02] Usuário consultado: ID = 13348.
+[19:02:09] Usuário consultado: ID = 13398.
+[19:02:13] Escolhido horário = [19h00].
+[19:02:15] Escolhido micro = [15].
+[19:02:15] Usuário Agendado.
+[19:05:08] Usuário consultado: ID = 1.
+[19:24:55] Banco de Dados já foi configurado para o dia 05/03/2014.
+[19:25:30] Usuário consultado: ID = 1.
+[19:29:24] Usuário consultado: ID = 1.

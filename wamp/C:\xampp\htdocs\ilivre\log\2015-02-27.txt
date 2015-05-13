@@ -1,0 +1,6 @@
+[17:43:55] Agenda pré-escolhida: tipo [102], micros[01, 02, 03, 04, 05, 06, 07, 08, 09, 10, 11, 12, 13, 14, 15],
+horarios [09h00, 12h00, 12h30, 13h00, 13h30, 14h00, 14h30, 15h00, 16h00, 17h00, 18h00, 19h00][17:44:00] Horários inseridos.
+[17:44:00] Horários ociosos anteriores removidos.
+[17:44:45] Busca por [norbert] obteve 4 resultado(s).
+[17:45:01] Usua&acute;rio consultado: ID = 1.
+[17:45:11] Busca por [NORBERT] obteve 4 resultado(s).

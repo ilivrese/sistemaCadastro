@@ -1,0 +1,121 @@
+8:58:38 : Agenda pré-escolhida: tipo [71], micros[01, 02, 03, 05, 06, 07, 08, 09, 10, 11, 12, 13, 14, 15],
+horarios [09h00, 10h00, 11h00, 12h00, 12h30, 13h00, 13h30, 14h00, 14h30, 15h00, 16h00, 17h00, 18h00, 19h00]
+2014-02-14 - 8:58:40 : Agenda pré-escolhida: tipo [71], micros[01, 02, 03, 05, 06, 07, 08, 09, 10, 11, 12, 13, 14, 15],
+horarios [09h00, 10h00, 11h00, 12h00, 12h30, 13h00, 13h30, 14h00, 14h30, 15h00, 16h00, 17h00, 18h00, 19h00]. Horários inseridos.
+2014-02-14 - 8:58:41 : Horários ociosos anteriores removidos.2014-02-14 - 9:01:21 : Usuário consultado: ID = 13184.
+2014-02-14 - 9:01:34 : Usuário consultado: ID = 13766.2014-02-14 - 9:02:00 : Usuário consultado: ID = 135276.
+2014-02-14 - 9:02:00 : ID 135276 n&atilde;o encontrada.2014-02-14 - 9:02:09 : Usuário consultado: ID = 13576.2014-02-14 - 9:02:31 : Usuário consultado: ID = 13653.2014-02-14 - 9:03:32 : Usuário consultado: ID = 3927.
+2014-02-14 - 9:03:46 : Usuário consultado: ID = 7006.2014-02-14 - 9:03:55 : Usuário consultado: ID = 7009.
+2014-02-14 - 9:04:08 : Usuário consultado: ID = 13557.
+2014-02-14 - 9:04:21 : Usuário consultado: ID = 263.
+2014-02-14 - 9:04:33 : Usuário consultado: ID = 11737.
+2014-02-14 - 9:04:43 : Usuário consultado: ID = 3765.
+2014-02-14 - 9:04:54 : Usuário consultado: ID = 6919.
+2014-02-14 - 9:05:35 : Busca por [MARIA MAGDALENA] obteve 1 resultado(s).2014-02-14 - 9:05:56 : Usuário consultado: ID = 13804.2014-02-14 - 9:06:12 : Usuário consultado: ID = 2750.
+2014-02-14 - 9:11:21 : Usuário consultado: ID = 95.2014-02-14 - 9:20:03 : Usuário consultado: ID = 559.
+2014-02-14 - 9:29:47 : Busca por [SANDRA MASCARENHAS ROBERT PIRES] obteve 0 resultado(s).
+2014-02-14 - 9:29:47 : Nome [SANDRA MASCARENHAS ROBERT PIRES] n&atilde;o encontrado.
+2014-02-14 - 9:39:29 : Usuário consultado: ID = 200.
+2014-02-14 - 9:41:03 : Usuário consultado: ID = 13842.
+2014-02-14 - 9:47:58 : Usuário consultado: ID = 10523.
+2014-02-14 - 9:59:48 : Usuário consultado: ID = 12364.
+2014-02-14 - 10:01:31 : Usuário consultado: ID = 3751.
+2014-02-14 - 10:01:41 : Usuário consultado: ID = 3557.
+2014-02-14 - 10:01:52 : Usuário consultado: ID = 13557.
+2014-02-14 - 10:02:48 : Usuário consultado: ID = 7009.
+2014-02-14 - 10:03:03 : Usuário consultado: ID = 13189.
+2014-02-14 - 10:03:07 : Usuário consultado: ID = 13184.
+2014-02-14 - 10:03:22 : Usuário consultado: ID = 13766.
+2014-02-14 - 10:03:34 : Usuário consultado: ID = 6919.
+2014-02-14 - 10:23:27 : Usuário consultado: ID = 13369.
+2014-02-14 - 10:25:37 : Banco de Dados já foi configurado para o dia 14/02/2014.
+2014-02-14 - 10:37:00 : Usuário consultado: ID = 1957.
+2014-02-14 - 10:41:18 : Usuário consultado: ID = 7260.
+2014-02-14 - 10:42:04 : Banco de Dados já foi configurado para o dia 14/02/2014.
+2014-02-14 - 10:42:55 : Banco de Dados já foi configurado para o dia 14/02/2014.
+2014-02-14 - 10:47:53 : Usuário consultado: ID = 13841.
+2014-02-14 - 10:48:34 : Banco de Dados já foi configurado para o dia 14/02/2014.
+2014-02-14 - 10:51:28 : Busca por [clerine] obteve 0 resultado(s).
+2014-02-14 - 10:51:28 : Nome [clerine] n&atilde;o encontrado.2014-02-14 - 10:52:05 : Busca por [CLERINE BATHEL CRISOL] obteve 0 resultado(s).2014-02-14 - 10:52:05 : Nome [CLERINE BATHEL CRISOL] n&atilde;o encontrado.2014-02-14 - 10:56:16 : Usuário consultado: ID = 9108.2014-02-14 - 11:00:55 : Usuário consultado: ID = 2750.2014-02-14 - 11:01:54 : Usuário consultado: ID = 95.2014-02-14 - 11:02:16 : Usuário consultado: ID = 1380.2014-02-14 - 11:02:45 : Usuário consultado: ID = 13557.2014-02-14 - 11:03:41 : Banco de Dados já foi configurado para o dia 14/02/2014.
+2014-02-14 - 11:06:51 : Banco de Dados já foi configurado para o dia 14/02/2014.
+2014-02-14 - 11:11:43 : Banco de Dados já foi configurado para o dia 14/02/2014.2014-02-14 - 11:13:32 : Banco de Dados já foi configurado para o dia 14/02/2014.2014-02-14 - 11:14:56 : Banco de Dados já foi configurado para o dia 14/02/2014.2014-02-14 - 11:21:52 : Usuário consultado: ID = 7555.2014-02-14 - 11:24:17 : Busca por [PEDRO PAULO PENTEADO] obteve 1 resultado(s).2014-02-14 - 11:24:53 : Usuário consultado: ID = 20.
+2014-02-14 - 11:30:18 : Busca por [ADINA JOSE DA SILVA] obteve 0 resultado(s).
+2014-02-14 - 11:30:18 : Nome [ADINA JOSE DA SILVA] n&atilde;o encontrado.2014-02-14 - 11:32:26 : Usuário consultado: ID = 1396.2014-02-14 - 11:33:34 : Usuário consultado: ID = 236629578.2014-02-14 - 11:33:34 : ID 236629578 n&atilde;o encontrada.2014-02-14 - 11:34:11 : Banco de Dados já foi configurado para o dia 14/02/2014.
+2014-02-14 - 11:37:25 : Usuário consultado: ID = 13184.2014-02-14 - 11:38:48 : Busca por [LUCIMAR AMARO CHAVES] obteve 0 resultado(s).2014-02-14 - 11:38:48 : Nome [LUCIMAR AMARO CHAVES] n&atilde;o encontrado.2014-02-14 - 11:40:05 : Busca por [LUCIMAR AMARO CHAVES] obteve 0 resultado(s).2014-02-14 - 11:40:05 : Nome [LUCIMAR AMARO CHAVES] n&atilde;o encontrado.2014-02-14 - 11:42:10 : Usuário consultado: ID = 13766.2014-02-14 - 11:43:33 : Banco de Dados já foi configurado para o dia 14/02/2014.2014-02-14 - 11:44:38 : Usuário consultado: ID = 698.2014-02-14 - 11:45:01 : Banco de Dados já foi configurado para o dia 14/02/2014.2014-02-14 - 11:49:57 : Busca por [ELIEL PAIM COSTA] obteve 1 resultado(s).2014-02-14 - 11:51:18 : Usuário consultado: ID = 11821.2014-02-14 - 11:55:20 : Usuário consultado: ID = 10845.2014-02-14 - 11:56:28 : Usuário consultado: ID = 7642.2014-02-14 - 11:59:55 : Usuário consultado: ID = 648.2014-02-14 - 12:00:36 : Busca por [jefferson luiz domingues] obteve 1 resultado(s).2014-02-14 - 12:02:18 : Usuário consultado: ID = 13322.2014-02-14 - 12:03:13 : Usuário consultado: ID = 1756.2014-02-14 - 12:03:23 : Usuário consultado: ID = 2756.2014-02-14 - 12:03:45 : Usuário consultado: ID = 275.2014-02-14 - 12:03:52 : Usuário consultado: ID = 2750.2014-02-14 - 12:04:20 : Usuário consultado: ID = 1957.2014-02-14 - 12:04:42 : Usuário consultado: ID = 13184.2014-02-14 - 12:10:03 : Busca por [arnaldo alves pinto junior] obteve 0 resultado(s).2014-02-14 - 12:10:03 : Nome [arnaldo alves pinto junior] n&atilde;o encontrado.2014-02-14 - 12:12:01 : Usuário consultado: ID = 2621.2014-02-14 - 12:12:39 : Busca por [ERINETE] obteve 1 resultado(s).2014-02-14 - 12:16:44 : Busca por [victor] obteve 32 resultado(s).2014-02-14 - 12:17:25 : Usuário consultado: ID = 1288.2014-02-14 - 12:17:33 : Usuário consultado: ID = 12888.2014-02-14 - 12:22:18 : Usuário consultado: ID = 13081.2014-02-14 - 12:24:14 : Usuário consultado: ID = 12649.2014-02-14 - 12:28:01 : Usuário consultado: ID = 5756.2014-02-14 - 12:30:46 : Usuário consultado: ID = 13446.2014-02-14 - 12:34:55 : Banco de Dados já foi configurado para o dia 14/02/2014.2014-02-14 - 12:35:39 : Banco de Dados já foi configurado para o dia 14/02/2014.2014-02-14 - 12:40:14 : Usuário consultado: ID = 3038.2014-02-14 - 12:40:42 : Usuário consultado: ID = 9610.2014-02-14 - 12:41:41 : Banco de Dados já foi configurado para o dia 14/02/2014.2014-02-14 - 12:43:45 : Banco de Dados já foi configurado para o dia 14/02/2014.2014-02-14 - 12:49:37 : Usuário consultado: ID = 13134.2014-02-14 - 12:50:42 : Usuário consultado: ID = 9041.2014-02-14 - 12:51:33 : Usuário consultado: ID = 13399.2014-02-14 - 12:54:51 : Busca por [washington pires dos santos filho] obteve 1 resultado(s).2014-02-14 - 12:55:27 : Usuário consultado: ID = 13595.2014-02-14 - 12:55:58 : Usuário consultado: ID = 13626.2014-02-14 - 12:57:14 : Banco de Dados já foi configurado para o dia 14/02/2014.2014-02-14 - 12:58:10 : Usuário consultado: ID = 2995.2014-02-14 - 12:58:32 : Usuário consultado: ID = 12995.2014-02-14 - 12:59:15 : Usuário consultado: ID = 8268.2014-02-14 - 13:01:21 : Usuário consultado: ID = 5756.2014-02-14 - 13:02:19 : Usuário consultado: ID = 12649.2014-02-14 - 13:04:49 : Usuário consultado: ID = 8322.2014-02-14 - 13:09:18 : Usuário consultado: ID = 13475.2014-02-14 - 13:16:15 : Usuário consultado: ID = 13481.2014-02-14 - 13:17:21 : Usuário consultado: ID = 13291.2014-02-14 - 13:22:29 : Usuário consultado: ID = 11737.2014-02-14 - 13:32:06 : Usuário consultado: ID = 8322.2014-02-14 - 13:33:06 : Busca por [] obteve 13652 resultado(s).2014-02-14 - 13:33:06 : Usuário consultado: ID = 3038.2014-02-14 - 13:35:00 : Usuário consultado: ID = 8268.2014-02-14 - 13:35:38 : Usuário consultado: ID = 2676.2014-02-14 - 13:37:28 : Busca por [SALVADOR GARCIA ROSSI] obteve 1 resultado(s).2014-02-14 - 13:38:21 : Usuário consultado: ID = 274.2014-02-14 - 13:42:26 : Usuário consultado: ID = 13229.2014-02-14 - 13:43:07 : Usuário consultado: ID = 5924.2014-02-14 - 13:44:35 : Usuário consultado: ID = 11737.2014-02-14 - 13:46:17 : Usuário consultado: ID = 2621.2014-02-14 - 13:47:35 : Busca por [arnaldo alves pinto junior] obteve 1 resultado(s).2014-02-14 - 13:48:48 : Busca por [Roberto Joaquim Jr] obteve 0 resultado(s).2014-02-14 - 13:48:48 : Nome [Roberto Joaquim Jr] n&atilde;o encontrado.2014-02-14 - 13:50:38 : Busca por [EDNA SANAE] obteve 1 resultado(s).2014-02-14 - 13:51:24 : Busca por [EDNA SANAE] obteve 1 resultado(s).2014-02-14 - 13:52:18 : Busca por [Roberto Joaquim Jr] obteve 1 resultado(s).2014-02-14 - 13:55:34 : Usuário consultado: ID = 11672.2014-02-14 - 14:00:41 : Usuário consultado: ID = 8322.2014-02-14 - 14:01:09 : Usuário consultado: ID = 3038.2014-02-14 - 14:01:29 : Usuário consultado: ID = 8268.2014-02-14 - 14:02:30 : Usuário consultado: ID = 1347.2014-02-14 - 14:02:48 : Usuário consultado: ID = 13475.2014-02-14 - 14:03:20 : Usuário consultado: ID = 11933.2014-02-14 - 14:08:52 : Busca por [mauricio franzatto] obteve 1 resultado(s).2014-02-14 - 14:16:07 : Usuário consultado: ID = 1494.2014-02-14 - 14:16:35 : Usuário consultado: ID = 1494.2014-02-14 - 14:16:49 : Usuário consultado: ID = 1494.2014-02-14 - 14:17:26 : Usuário consultado: ID = 11494.2014-02-14 - 14:20:02 : Usuário consultado: ID = 13194.2014-02-14 - 14:23:08 : Usuário consultado: ID = 2430.2014-02-14 - 14:29:21 : Busca por [caio moreira ribeiro] obteve 1 resultado(s).2014-02-14 - 14:30:08 : Busca por [fabio wier] obteve 1 resultado(s).2014-02-14 - 14:30:39 : Usuário consultado: ID = 1343.2014-02-14 - 14:31:21 : Usuário consultado: ID = 11059.2014-02-14 - 14:31:50 : Usuário consultado: ID = 5924.2014-02-14 - 14:32:21 : Usuário consultado: ID = 11727.2014-02-14 - 14:32:42 : Usuário consultado: ID = 1137.2014-02-14 - 14:33:54 : Usuário consultado: ID = 4572.2014-02-14 - 14:35:33 : Usuário consultado: ID = 11241.2014-02-14 - 14:37:12 : Busca por [carmo escobar ] obteve 0 resultado(s).2014-02-14 - 14:37:12 : Nome [carmo escobar ] n&atilde;o encontrado.2014-02-14 - 14:37:35 : Busca por [carmo de moraes escobar] obteve 0 resultado(s).2014-02-14 - 14:37:35 : Nome [carmo de moraes escobar] n&atilde;o encontrado.2014-02-14 - 14:37:47 : Busca por [carmo] obteve 1 resultado(s).
+2014-02-14 - 14:40:59 : Usuário consultado: ID = 7747.2014-02-14 - 14:50:19 : Usuário consultado: ID = 1078.
+2014-02-14 - 14:50:59 : Busca por [ozenilton] obteve 1 resultado(s).
+2014-02-14 - 14:53:50 : Usuário consultado: ID = 13289.
+2014-02-14 - 14:55:49 : Usuário consultado: ID = 1308.2014-02-14 - 14:56:02 : Usuário consultado: ID = 13084.
+2014-02-14 - 14:59:01 : Busca por [marli] obteve 5 resultado(s).
+2014-02-14 - 15:02:56 : Usuário consultado: ID = 5924.
+2014-02-14 - 15:04:18 : Busca por [arnaldo alves] obteve 1 resultado(s).
+2014-02-14 - 15:06:04 : Usuário consultado: ID = 11241.
+2014-02-14 - 15:08:17 : Banco de Dados já foi configurado para o dia 14/02/2014.
+2014-02-14 - 15:13:36 : Banco de Dados já foi configurado para o dia 14/02/2014.
+15:15:01 : Banco de Dados já foi configurado para o dia 14/02/2014.
+15:17:44 : Usuário consultado: ID = 12536.
+15:19:33: Usuário consultado: ID = 307.
+15:25:56: Usuário consultado: ID = 9163.
+15:37:21 : Usuário consultado: ID = 2114.
+15:44:23: Banco de Dados já foi configurado para o dia 14/02/2014.
+15:49:54: Usuário consultado: ID = 1513653.
+15:49:54 : ID 1513653 n&atilde;o encontrada.
+15:50:20: Usuário consultado: ID = 13653.
+15:51:14: Usuário consultado: ID = 508.
+16:02:59: Usuário consultado: ID = 12364.
+16:03:23: Busca por [ozenilton] obteve 1 resultado(s).
+16:12:29: Usuário consultado: ID = 1.
+
+16:12:32: Usuário consultado: ID = 3.
+
+16:12:35: Usuário consultado: ID = 5.
+
+16:15:10: Usuário consultado: ID = 5.
+16:15:13: Usuário consultado: ID = 7.
+16:15:17: Usuário consultado: ID = 9.
+16:21:00: Usuário consultado: ID = 9.
+16:21:05: Usuário consultado: ID = 15.
+16:29:21: Usuário consultado: ID =  13804.
+16:29:38: Usuário consultado: ID =  13804.
+16:29:52: Busca por [JOSE VITAL NETO] obteve 1 resultado(s).[16:31:30] Usuário consultado: ID = 33.
+[16:31:34] Usuário consultado: ID = 44.
+[16:31:34] ID 44 n&atilde;o encontrada.
+[16:44:53] Usu&aacute;rio consultado: ID = 5858.
+[16:45:04] Documento [RG38289911] encontrado - ID = [5858].
+[16:45:13] Cart&atilde;o Sesc [COM6220317694] encontrado - ID = [5858].
+[16:45:21] Busca por [ssssss] obteve 0 resultado(s).
+[16:45:21] Nome [ssssss] n&atilde;o encontrado.
+[16:45:28] Documento [RG90000000] n&atilde;o encontrado.
+[16:45:35] Cart&atilde;o Sesc [COM666666666] n&atilde;o encontrado.
+[16:46:19] Documento [RG364452079] encontrado - ID = [13006].
+[16:50:07] Usuário consultado: ID = 77.
+[16:50:15] Documento [RG71629427] encontrado.
+[16:51:35] Cartão Sesc [COM6220317694] encontrado.
+[16:54:15] Busca por [amehou] obteve 1 resultado(s).
+[16:54:19] Usuário escolhido: ID [13160].
+[17:03:36] Usuário consultado: ID = 9263.
+[17:03:36] Usuário escolhido: ID [9263].
+[17:03:39] Usuário consultado: ID = 9163.
+[17:03:39] Usuário escolhido: ID [9163].
+[17:03:51] Usuário consultado: ID = 307.
+[17:03:51] Usuário escolhido: ID [307].
+[17:04:06] Usuário consultado: ID = 13804.
+[17:04:06] Usuário escolhido: ID [13804].
+[17:04:17] Usuário consultado: ID = 12364.
+[17:04:17] Usuário escolhido: ID [12364].
+[17:04:28] Usuário consultado: ID = 11241.
+[17:04:28] Usuário escolhido: ID [11241].
+[17:04:46] Usuário escolhido: ID [2663].
+[17:04:46] Documento [RG52818743] encontrado.
+[17:05:13] Usuário escolhido: ID [13776].
+[17:05:13] Documento [RG184544] encontrado.
+[17:05:32] Usuário consultado: ID = 13804.
+[17:05:32] Usuário escolhido: ID [13804].
+[17:05:48] Usuário consultado: ID = 12364.
+[17:05:48] Usuário escolhido: ID [12364].
+[17:15:46] Usuário consultado: ID = 1859.
+[17:21:39] Usuário consultado: ID = 2232.
+[17:22:59] Usuário consultado: ID = 23.
+[17:22:59] ID [23] não encontrada.
+[17:23:03] Usuário consultado: ID = 24.
+[17:33:40] Usuário consultado: ID = 24.
