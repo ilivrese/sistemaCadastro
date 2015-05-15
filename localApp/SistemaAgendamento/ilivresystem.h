@@ -3,6 +3,10 @@
 
 #include <QMainWindow>
 
+#include <QtSql>
+#include <QtDebug>
+#include <QFileInfo>
+
 namespace Ui {
 class IlivreSystem;
 }
