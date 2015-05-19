@@ -19,3 +19,16 @@ Para iniciar o sistema, inicie o Xampp-controller, inicie o Apache e MySQL. para
 Esta versão (está em desenvolvimento) tem o objetivo de tornar o sistema de agendamento um aplicativo local desktop, self-contained, eliminando complexidades de manutenção, incompatibilidade, e erros. Bem como uma tentativa de tornar o software mais intuitivo.
 
 Depende de QT
+SQLite 
+	:: development : usado o SQLite database browser no ubuntu
+	:: production  : 
+
+
+
+
+## Notas de desenvolvimento
+- Primeira etapa: Cadastramento de usuários, busca, e agendamento de acesso.
+	referencias: https://www.youtube.com/watch?v=9B26MQX2O70
+
+	connecting : OK
+	insert into usuarios values(1, "internet livre", "YYYY-MM-DD HH:MM:SS.SSS", "M" ...)

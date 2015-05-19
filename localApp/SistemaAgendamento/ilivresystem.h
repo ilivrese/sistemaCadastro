@@ -18,6 +18,7 @@ class IlivreSystem : public QMainWindow
 public:
     explicit IlivreSystem(QWidget *parent = 0);
     ~IlivreSystem();
+    //void IlivreSystem::on_busca_id_clicked();
 
 private:
     Ui::IlivreSystem *ui;
