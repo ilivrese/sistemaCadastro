@@ -20,6 +20,9 @@ public:
     ~IlivreSystem();
     //void IlivreSystem::on_busca_id_clicked();
 
+private slots:
+    void on_busca_id_released();
+
 private:
     Ui::IlivreSystem *ui;
 };

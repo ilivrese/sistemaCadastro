@@ -27,8 +27,17 @@ SQLite
 
 
 ## Notas de desenvolvimento
-- Primeira etapa: Cadastramento de usuários, busca, e agendamento de acesso.
-	referencias: https://www.youtube.com/watch?v=9B26MQX2O70
 
+### Primeira etapa: 
+    Cadastramento de usuários, busca, e agendamento de acesso.
+	
+	####referencias: 
+	https://www.youtube.com/watch?v=9B26MQX2O70
+
+	http://www.regexr.com/
+	http://regexone.com/lesson/1
+	http://www.sitepoint.com/web-foundations/using-regular-expressions-to-check-string-length/
+
+	####tasks
 	connecting : OK
 	insert into usuarios values(1, "internet livre", "YYYY-MM-DD HH:MM:SS.SSS", "M" ...)
