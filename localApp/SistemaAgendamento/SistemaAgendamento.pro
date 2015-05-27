@@ -13,8 +13,11 @@ TEMPLATE = app
 
 
 SOURCES += main.cpp\
-        ilivresystem.cpp
+        ilivresystem.cpp \
+    dlg_registrausuario.cpp
 
-HEADERS  += ilivresystem.h
+HEADERS  += ilivresystem.h \
+    dlg_registrausuario.h
 
-FORMS    += ilivresystem.ui
+FORMS    += ilivresystem.ui \
+    dlg_registrausuario.ui
