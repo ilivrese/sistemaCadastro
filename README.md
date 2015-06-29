@@ -17,7 +17,8 @@ Para iniciar o sistema, inicie o Xampp-controller, inicie o Apache e MySQL. para
 ##### Tópicos para manutenção
 O sistema possui algumas instabilidades. Problemas e soluções conhecidas, listadas abaixo:
  - bug 1: No processo de agendamento, não aparece a lista de horários. Ou, a lista de horários no rodapé da tela, a parece 0(zero) ao lado de todos os horários.
- 	Esse problema ocorre porque os dados de horários e micros do dia, não foram salvos adequadamente no DB. (Isso é um erro no sistema)
+ 	Esse problema ocorre porque os dados de horários e micros do dia, não foram salvos adequadamente no DB. (Isso é um erro no sistema).
+ 	
  	Resolução A: Ir em Ferramentas Administrativas > Consertar Planilha na Marra
  				Clicar em: Eliminar a agenda xx do dia.
  				Atualizar o navegador
